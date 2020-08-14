@@ -60,7 +60,7 @@ B: Eligibility - Officers must be the following:
 
 C: Election - The officers shall be elected by ballot at the last meeting of the spring semester by a majority of a vote cast for that office.
 
-D: Term - The officers shall serve for five semesters and their term of office and will begin at the commencement of the fall semester.  
+D: Term - The officers shall serve for two semesters and their term of office and will begin at the commencement of the fall semester.  
 
 E: Vacancy- If a vacancy occurs in the office of the President, the Vice-President shall assume the office for the remainder of the term and vacancies of the Vice-President position shall be filled by special election.  
 
