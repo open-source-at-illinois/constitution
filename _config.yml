@@ -1,0 +1,10 @@
+# Site settings
+title: Open-Source @ Illinois ~ Constitution & By-Laws
+tag_text: Constitution & By-Laws
+description: Open-Source @ Illinois ~ Constitution & By-Laws
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed

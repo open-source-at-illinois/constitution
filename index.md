@@ -1,6 +1,7 @@
-![](./logo.png "Open-Source at Illinois Logo")
+---
+layout: default
+---
 
-#  Open-Source @ Illinois ~ Constitution & By-Laws
 ## Article I: Name & Purpose
 
 A: Name - Open-Source @ Illinois
