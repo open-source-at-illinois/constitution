@@ -21,13 +21,7 @@ As outlined in the University of Illinois Student Code, Open-Source @ Illinois w
 
 ## Article II: Membership
 
-A: Eligibility - Membership shall be restricted to currently enrolled students at the University of Illinois, Urbana-Champaign campus and their spouses/partners. Currently appointed faculty/staff and their spouses/partners also may be members. 
- 
-Membership shall include the following:
-- Student Members, individuals who are currently enrolled students at UIUC.
-- Members, individuals who fall in the criteria detailed in Article II.A but not in Article II.A.1.a.
-
-
+A: Eligibility - Membership shall be restricted to currently enrolled students at the University of Illinois, Urbana-Champaign campus.
 
 B: Participation- Every board member is expected be a professional ambassador and to take a participatory role with Official Open-Source @ Illinois business including, but not limited to the following:
 
