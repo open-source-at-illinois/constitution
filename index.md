@@ -110,6 +110,13 @@ E:  Membership Chair - It shall be the duty of the Membership Chair to:
 - Set and keep 1 to 1 meeting with the Advisor
 - Perform such other duties as ordinarily pertaining to this organization
 
+F: Open-Dev Director - it Shall be the duty of the Open-Dev director(s) to:
+- Ensure that the Open-Dev program is operating in compliance with the board’s expectations/vision
+- Communicate any funding requirements between project teams and the treasurer
+- Work with the Membership chair to promote consistent participation in the Open-Dev program
+- Recruit Project-leads in case of unseen vacancies/withdrawals
+- Ensure the project teams are working effectively to implement the goals set for the semester
+
 
 
 ## Article V: Open-Source @ Illinois Meetings
